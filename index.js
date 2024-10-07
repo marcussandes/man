@@ -17,7 +17,7 @@ Ao final deve se exibir uma mensagem:
 */
 
 
- calcularRank(30,1)
+ calcularRank(45,10)
 
 function calcularRank(vitorias, derrotas){
     //calcular partidas rankeadas
